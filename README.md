@@ -1,6 +1,6 @@
 # Employee Retention Prediction Web App
 
- **Live App:** https://your-app-name.streamlit.app
+ **Live App:** https://employee-retention-shivam.streamlit.app/
 
 ---
 
